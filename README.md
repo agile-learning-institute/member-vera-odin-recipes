@@ -1,3 +1,3 @@
-# member-vera-odin-recipes
+# member-vera--recipes
 Odin Recipes Project
 Vera 
