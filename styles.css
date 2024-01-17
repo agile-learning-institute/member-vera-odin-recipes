@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    background-color: black;
+    font-size: 25px;
+    font-family: Arial;
+    text-align: center;
+    border: solid;
+    border-width: 5;
+}
+p {
+    background-color: red;
+    border:solid;
+    border-width: 3px;
+    text-align: center;
+}
+a{
+    color:yellow;
+}
