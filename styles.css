@@ -16,3 +16,6 @@ p {
 a{
     color:yellow;
 }
+*{
+    background-color: none;
+}
